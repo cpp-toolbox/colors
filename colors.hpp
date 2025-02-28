@@ -603,6 +603,7 @@ struct Colors {
     glm::vec3 sienna3 = glm::vec3(205 / d, 104 / d, 57 / d);
     glm::vec3 sienna4 = glm::vec3(139 / d, 71 / d, 38 / d);
     glm::vec3 silver = glm::vec3(192 / d, 192 / d, 192 / d);
+    glm::vec3 bronze = glm::vec3(205 / d, 127 / d, 50 / d);
     glm::vec3 skyblue = glm::vec3(135 / d, 206 / d, 235 / d);
     glm::vec3 skyblue1 = glm::vec3(135 / d, 206 / d, 255 / d);
     glm::vec3 skyblue2 = glm::vec3(126 / d, 192 / d, 238 / d);
