@@ -676,6 +676,5 @@ inline glm::vec3 yellow3 = glm::vec3(205 / d, 205 / d, 0 / d);
 inline glm::vec3 yellow4 = glm::vec3(139 / d, 139 / d, 0 / d);
 inline glm::vec3 yellowgreen = glm::vec3(154 / d, 205 / d, 50 / d);
 }; // namespace colors
->>>>>>> changes
 
 #endif // COLORS_HPP
